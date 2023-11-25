@@ -1,0 +1,300 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+#h1{
+    display: flex;
+    justify-content: space-between;
+    background-color:#f5f5f5;
+}
+#h1 #left img{
+    height: 24px;
+    width: 24px;
+}
+#h2{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    /* border-right: 5px solid black; */
+    color: black;
+   
+    
+}
+#h2 a{
+    text-decoration: none;
+    color: black;
+    border-right: 2px solid black;
+    padding-right: 8px;
+}
+#he{
+    position: relative;
+}
+#h3{
+    list-style-type: none;
+    padding: 0;
+    background-color:white;
+    border-radius: 5px;
+    position: absolute;
+    top: 100%;
+    right: -231%;
+    width: 497%;
+    display: none;
+   
+}
+#h3 a{
+    border-right: none;
+}
+#he:hover #h3{
+    display: block;
+}
+#k a{
+    border-right: none;
+}
+#h4{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+#h5 img{
+    width: 60px;
+    height: 60px;
+    padding-left: 1rem;
+}
+#h7{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    gap: 1rem;
+}
+#h7 a{
+    color: black;
+    text-decoration: none;
+
+}
+#h8{
+    padding-right: 1rem;
+}
+.fa-regular{
+    padding-right: 1rem;
+}
+#h9 img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#h10{
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+#h10 p{
+    font-size: 1.3rem;
+}
+#h10 button{
+    border-radius: 32px;
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+#h11 {
+    display: flex;
+    flex-direction: row;
+}
+#p1{
+    position: absolute;
+    /* margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-block-end: 1em;
+    margin-block-start: 1em; */
+    padding: 0;
+    margin: 0;
+    top: 114rem;
+    left: 2rem;
+}
+#p2{
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 114rem;
+    left: 638px;
+}
+#yo{
+    margin-top: 5rem;
+    padding-left: 3rem;
+    padding-right: 2rem;
+}
+#h12 img{
+    width: 100%;
+    height: 100%;
+}
+#h13{
+    text-align: center;
+    margin-top: 3rem;
+}
+#h13 h1{
+    font-size: 4rem;
+    font-weight: 700;
+    margin: 0;
+
+}
+#h13 button{
+    border-radius: 32px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+#h15 {
+    display: flex;
+    /* width: 100%;
+    height: 50%; */
+
+}
+#h15 img{
+    width: 51rem;
+    height: 46rem;
+  
+}
+#yo1{
+    margin-top: 5rem;
+    padding-left: 3rem;
+    padding-right: 2rem;
+}
+#a {
+    margin-right: 1rem;
+}
+#b{
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 231rem;
+    left: 75px;
+    color: white;
+    font-size: 1rem;
+}
+#c{
+    position: absolute;
+    top: 232rem;
+    left: 75px;
+    color: white;
+    font-size: 1.1rem;
+}
+#d{
+    position: absolute;
+    top: 238rem;
+    left: 75px;
+    border-radius: 22px;
+    border: none;
+    padding: 10px;
+}
+#e{
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 229rem;
+    left: 818px;
+    color: white;
+    font-size: 1rem;
+    
+}
+#f{
+    position: absolute;
+    top: 230rem;
+    left: 818px;
+    color: white;
+    font-size: 1.1rem;
+}
+#g{
+    position: absolute;
+    top: 233rem;
+    left: 818px;
+    border-radius: 22px;
+    border: none;
+    padding: 10px;
+}
+#yo2{
+    margin-top: 4rem;
+    padding-left: 1rem;
+    /* width: 24px;
+   height: 24px; */
+}
+#h16 img{
+    width: 1457px;
+    height: 818px;
+    padding-left: 1rem;
+}
+#h17{
+    text-align: center;
+}
+#h17 h1{
+    margin-top: 0;
+    font-size: 2.8rem;
+    font-weight: 900;
+}
+#h17 button{
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+    border-radius: 17px;
+}
+#h18 {
+    display: flex;
+    flex-direction: row;
+    
+}
+#h18 img{
+    width: 467px;
+    height: 486px;
+}
+#i{
+    margin-right: 1rem;
+    margin-left: 2rem;
+}
+#j{
+    margin-right: 1rem;
+}
+#yo3{
+    margin-top: 3rem;
+   
+}
+#yo3 h2{
+    margin-left: 2rem;
+}
+#h19{
+    position: absolute;
+    top: 351rem;
+    right: 78.5rem;
+}
+#h20{
+    position: absolute;
+    top: 351rem;
+    right: 52.5rem;
+}
+#h21{
+    position: absolute;
+    top: 351rem;
+    right: 5.5rem;
+}
+#h22{
+    margin-top: 17rem;
+    padding-left: 2.5rem;
+}
+#h23{
+    padding-left: 2.5rem;
+}
+#l{
+    width: 90rem;
+    height: 60rem;
+}
+
+
+
+
+
